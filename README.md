@@ -8,6 +8,8 @@
 
 Вся разработка у меня происходит в **GitLab**, здесь представлена лишь небольшая часть моих экспериментов и учебных проектов.
 
+
+
 ###
 
 <h3 align="left">🛠 Технологии:</h3>
@@ -52,7 +54,9 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
 </div>
 
-
+<div align="center">
+  <img width="600" src="github-snake.svg" alt="snake"/>
+</div>
 
 ###
 
@@ -65,9 +69,7 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=NIKITANIKINIKI&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub stats" />
 </div>
-<div align="center">
-  <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</div>
+
 
 
 
