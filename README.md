@@ -1,7 +1,9 @@
 # Привет, я Никита! 👋
 
 ## 👨‍💻 О себе
-Я Front-end / Full-stack разработчик с опытом работы в создании динамичных и отзывчивых веб-приложений.
+Я **Front-end / Full-stack разработчик** с опытом создания динамичных и отзывчивых веб-приложений.  
+Имею **более 2 лет коммерческого опыта**, всегда готов изучать новые технологии и совершенствоваться.  
+Выпускник **МГТУ им. Н.Э. Баумана**. 🚀
 
 ###
 
@@ -53,10 +55,23 @@
 
 <h3 align="left">🔥   Моя статистика :</h3>
 
-###
-
 <div align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NIKITANIKINIKI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=false&order=2" height="150" alt="Top languages"  />
+  <img width="24" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NIKITANIKINIKI&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub stats" />
 </div>
 
+
+
 ###
+
+
+## 📫 Контакты
+
+<div align="center">
+  <a href="https://t.me/Nikkkkklllll" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
