@@ -62,21 +62,6 @@
   <img width="600" src="github-snake.svg" alt="snake"/>
 </div>
 
-###
-
-<h3 align="left">🔥   Моя статистика :</h3>
-
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NIKITANIKINIKI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=false&order=2" height="150" alt="Top languages"  />
-  <img width="24" />
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NIKITANIKINIKI&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub stats" />
-</div>
-
-
-
-
 ## 📫 Контакты
 
 <div align="center">
